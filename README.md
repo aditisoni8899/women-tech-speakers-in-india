@@ -135,4 +135,12 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Aditi Soni
+
+- Location: Indore
+- Talks about: Android
+- Social: [LinkedIn](https://www.linkedin.com/in/aditi-soni/)
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
 
